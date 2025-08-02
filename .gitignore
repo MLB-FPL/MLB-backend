@@ -35,4 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
-backendProject/.env
+
+.env
+**/src/main/resources/application-dev.properties
